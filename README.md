@@ -19,11 +19,11 @@ This is a Blog platform. first to register to user, login user. User is login th
 
 | Name             | Version                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| body-parser | ^1.20.2 |
-| qrcode | ^1.5.3 |
-| express | ~4.18.1 |
+| cors | ^2.8.5 |
+| dotenv | ^16.3.1 |
+| express | ~4.18.2 |
+| mongoose | ^8.0.3 |
 | nodemon | ^3.0.2 |
-
 
 ## API Reference
 
