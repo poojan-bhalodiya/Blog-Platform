@@ -86,31 +86,31 @@ Show all Blog.
 
 ### Register User
 
-![image](https://github.com/poojan-bhalodiya/Blog-Platform/assets/120900697/5e768cfd-f911-4002-8ff9-d0cd60b3ce33)
+![image](https://res.cloudinary.com/dhntmsget/image/upload/v1706795298/Projects/Blog-Platform/Screen%20Short/Register%20User.png)
 
 ### Login User
 
-![image](https://github.com/poojan-bhalodiya/Blog-Platform/assets/120900697/f02a8cb9-cbb0-464e-a0d1-5618e9ed67c4)
+![image](https://res.cloudinary.com/dhntmsget/image/upload/v1706795829/Projects/Blog-Platform/Screen%20Short/Login%20User.png)
 
 ### Add Blog 
 
-![image](https://github.com/poojan-bhalodiya/Blog-Platform/assets/120900697/9a3361ce-1bfa-4820-bc00-3745dbc8ec27)
+![image](https://res.cloudinary.com/dhntmsget/image/upload/v1706795986/Projects/Blog-Platform/Screen%20Short/Add%20Blog.png)
 
 ### Get All Blogs
 
-![image](https://github.com/poojan-bhalodiya/Blog-Platform/assets/120900697/c002ca2c-e3e6-4112-926e-9b8bb8c71464)
+![image](https://res.cloudinary.com/dhntmsget/image/upload/v1706796084/Projects/Blog-Platform/Screen%20Short/Get%20all%20DATA.webp)
 
 ### Get One Blog by id
 
-![image](https://github.com/poojan-bhalodiya/Blog-Platform/assets/120900697/55dd8ab6-cb6b-4cdf-91cb-1d7d3618695a)
+![image](https://res.cloudinary.com/dhntmsget/image/upload/v1706796225/Projects/Blog-Platform/Screen%20Short/Get%20one%20data.png)
 
 ### Update Blog 
 
-![image](https://github.com/poojan-bhalodiya/Blog-Platform/assets/120900697/c5dbb0d7-0ddb-4ccc-a550-8d6f6a501fd4)
+![image](https://res.cloudinary.com/dhntmsget/image/upload/v1706796296/Projects/Blog-Platform/Screen%20Short/update.png)
 
 ### Delete Blog 
 
-![image](https://github.com/poojan-bhalodiya/Blog-Platform/assets/120900697/47814ae1-8f20-48f7-ae8e-24db897e6b03)
+![image](https://res.cloudinary.com/dhntmsget/image/upload/v1706796345/Projects/Blog-Platform/Screen%20Short/Delete%20Blog.png)
 
 
 
